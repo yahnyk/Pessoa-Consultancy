@@ -316,6 +316,16 @@ img{ max-width: 100%; display: block; }
 }
 .about-copy h2{ font-size: 2rem; }
 .about-copy p{ font-size: 1.02rem; }
+.about-credentials{
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: var(--green-mid);
+  text-transform: uppercase;
+  margin-top: 1.6em;
+  padding-top: 1.2em;
+  border-top: 1px solid var(--line);
+}
 
 /* ---------- Services ---------- */
 .services{ background: var(--paper-deep); }
